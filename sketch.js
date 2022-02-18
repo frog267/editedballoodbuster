@@ -103,7 +103,7 @@ function draw() {
    //red.velocityX = 3;
   //red.lifetime = 150;
    //red.scale = 0.1;
- }
+ //}
 
 function redBalloon() {
    var red = createSprite(0,Math.round(random(20, 370)), 10, 10);
